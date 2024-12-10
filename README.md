@@ -1,2 +1,2 @@
-# NLP projects
- This includes all projects for Natural lanuage processing projects
+NLP-IT Ticket classifcation using BERT,DistilBERT,LSTM,BiLSTM
+This includes project notebooks  for IT Ticket classifcation using BERT,DistilBERT,LSTM,BiLSTM project
